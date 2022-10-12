@@ -1,17 +1,5 @@
-[
-  {
-    "name": "image1",
-    "size": 300,
-    "type": "jpg"
-  },
-  {
-    "name": "image2",
-    "size": 500,
-    "type": "jpg"
-  },
-  {
-    "name": "image3",
-    "size": 800,
-    "type": "jpg"
-  }
-]
+{
+  "name": "image1",
+  "size": 300,
+  "type": "jpg"
+}
